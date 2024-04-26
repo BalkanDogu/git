@@ -9,6 +9,7 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+  
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
@@ -19,6 +20,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+[https://github.com/BalkanDogu/githomework1.git](https://github.com/BalkanDogu/githomework1)
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
